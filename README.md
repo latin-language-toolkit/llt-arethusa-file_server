@@ -24,7 +24,13 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+Run rackup to start a fileserver to help in the development of 
+[Arethusa's](http://github.com/latin-language-toolkit/llt-annotation_environment) configuration editor.
+
+Port defaults to 8086.
+
+Awaits that the environmental variable `ARETHUSA_HOME` is set to
+Arethusa's app directory.
 
 ## Contributing
 
