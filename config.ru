@@ -1,3 +1,5 @@
+#\ -w -p 8086
+
 require 'llt/arethusa/file_server/api'
 
 unless ENV['ARETHUSA_HOME']
